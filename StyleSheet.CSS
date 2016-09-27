@@ -1,0 +1,138 @@
+body {
+  padding-left: 50px;
+  padding-top:  20px;
+  width:  800px;
+  
+}
+.Nav-Menu {
+  background-color: #8F8F8F;
+  height:  auto;
+  padding: 5px;
+}
+
+.More {
+  color: black;
+  font-size:10pt;
+  text-decoration: none;
+  
+}
+
+.More-Line {
+  padding-left:  45px;
+  background-color:#EFEFEF;
+}
+
+.Footer-Menu {
+  height:  auto;
+  padding: 5px;
+  padding-left:  18%;
+  background-color:#EFEFEF;
+  color: black;
+}
+
+
+ol {
+  background-color:#EFEFEF;
+  margin: 0;
+  padding-left:30px;
+  padding-bottom: 20px;
+  
+}
+.Headers{
+  color:white;
+  font-size: 10pt;
+}
+
+.Footers{
+  color:black;
+  font-size: 8pt;
+}
+
+.Header-Link{
+  color: black;
+  text-decoration: none;
+}
+
+.BigI {
+  border: 1px solid white;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 4px;
+  padding-bottom: 0px;
+  font-weight:bold;
+  color: white;
+}
+
+.IronNews{
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+.loginbox{
+  margin-left:  310px;
+}
+
+.Login{
+  color: black;
+  font-size:10pt;
+  text-decoration: none;
+}
+li {
+  color: grey;
+}
+
+.Title {
+  font-size: 11pt;
+  text-decoration: none;
+}
+
+.TitleLink {
+  color: black;
+  text-decoration: none;
+}
+
+.Website {
+  font-size: 8pt;
+}
+
+.WebsiteLink{
+  color: grey;
+  text-decoration: none;
+}
+
+.InfoLink {
+  color: grey;
+  text-decoration: none;
+}
+
+.Top-Line{
+  padding-bottom: 2px;
+}
+
+.Underline {
+  background-color:#EFEFEF;
+  color: #8F8F8F;
+  font-weight: bold;
+}
+
+.Bottom-Line{
+  font-size: 8pt;
+  padding-left: 16px;
+}
+.Element{
+  padding-top: 9px;
+}
+
+.Search-Line{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35%;
+  color: #8F8F8F;
+  font-size: 10pt;
+  background-color:#EFEFEF;
+}
+
+* {
+  font-family: Verdana, Geneva, sans-serif;
+}
